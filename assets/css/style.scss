@@ -1,0 +1,25 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+.topnav div{
+	float: left;
+	width: 100%;
+	
+}
+.topnav {
+	overflow: hidden;
+}
+
+.topnav a {
+	float: left;
+	text-align: center;
+	padding: 10px 10px;
+	font-size: 1.2em;
+	color:#000000;
+}
+
+.topnav a:hover,a:focus{
+	font-weight: bold;
+}

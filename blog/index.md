@@ -1,5 +1,5 @@
 ---
-layout: default_cv
+layout: default_blog
 title: "Blog"
 date: 2023-01-16
 ---

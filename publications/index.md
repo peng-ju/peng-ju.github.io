@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_cv
 title: Publications
 ---
 ### Journals

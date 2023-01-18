@@ -1,5 +1,5 @@
 ---
-layout: default_project
+layout: default_cv
 title: "Project"
 date: 2023-01-16
 ---

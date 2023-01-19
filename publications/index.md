@@ -26,3 +26,5 @@ Physical Review Research 2 (4), 043054 (2020).
 2. 'Ultrasensitive torque detection with an optically levitated nanorotor', UniKORN Seminar (2021). [[link]](https://www.youtube.com/watch?v=1Uv6hEnyZtA&t=3609s&ab_channel=UniKORNSeminars)
 3. 'Coupled dynamics of an optically levitated nanodumbbell', Laser Science, LTh2G. 3 (2020). [[link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3#videoPlayer)
 
+#### Posters
+1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbel', GRC, Mechanical Systems in the Quantum Regime (2022).

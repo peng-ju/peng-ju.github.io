@@ -22,10 +22,7 @@ Physical Review Research 2 (4), 043054 (2020).
 2. 'Observation and control of Casimir effects in a sphere-plate-sphere system', Z. Xu, **P. Ju**, X. Gao, K. Shen, Z. Jacob, T. Li, Nature Communications 13 (1), 1-8 (2022).
 
 #### Talks
-1. 'Coupled dynamics of an optically levitated nanodumbbell', Laser Science, LTh2G. 3 (2020) <br>
-[[link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3#videoPlayer)
-2. 'Ultrasensitive torque detection with an optically levitated nanorotor', UniKORN Seminar (2021) <br>
-[[link]](https://www.youtube.com/watch?v=1Uv6hEnyZtA&t=3609s&ab_channel=UniKORNSeminars)
-3. 'Ultrasensitive torque detection and 5D cooling of optically levitated nanoparticles', APS March meeting (2021) <br>
-[[link]](https://meetings.aps.org/Meeting/MAR21/Session/J31.2)
+1. 'Coupled dynamics of an optically levitated nanodumbbell', Laser Science, LTh2G. 3 (2020). [[link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3#videoPlayer)
+2. 'Ultrasensitive torque detection with an optically levitated nanorotor', UniKORN Seminar (2021). [[link]](https://www.youtube.com/watch?v=1Uv6hEnyZtA&t=3609s&ab_channel=UniKORNSeminars)
+3. 'Ultrasensitive torque detection and 5D cooling of optically levitated nanoparticles', APS March meeting (2021). [[link]](https://meetings.aps.org/Meeting/MAR21/Session/J31.2)
 

@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### Selected Publications
+For a full list of my publications, please refer to my [google scholar](https://scholar.google.com/citations?user=vPl5ZHoAAAAJ&hl=en&oi=ao).  
 
 #### Levitated optomechanics
 1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li (In preparation).

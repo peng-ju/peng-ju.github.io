@@ -27,4 +27,4 @@ Physical Review Research 2 (4), 043054 (2020).
 3. 'Coupled dynamics of an optically levitated nanodumbbell', Laser Science, LTh2G. 3 (2020). [[link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3#videoPlayer)
 
 #### Posters
-1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbel', GRC, Mechanical Systems in the Quantum Regime (2022).
+1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbel', GRC, Mechanical Systems in the Quantum Regime (2022). [[link]](https://www.grc.org/mechanical-systems-in-the-quantum-regime-conference/2022/)

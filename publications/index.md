@@ -13,14 +13,14 @@ title: Publications
 Physical Review Research 2 (4), 043054 (2020).
 5. 'Ultrasensitive torque detection and 5D cooling of optically levitated nanoparticles', J. Ahn, Z. Xu, J. Bang, **P. Ju**, X. Gao, T. Li, Nature Nanotechnology 15 (2), 89-93 (2020).
 
-### Spin qubit
+#### Spin qubit
 1. 'Nuclear spin polarization and control in hexagonal boron nitride', X. Gao, S. Vaidya, K. Li, **P. Ju**, B. Jiang, Z. Xu, A. Allcca, K. Shen, T. Taniguchi, K. Watanabe, S. A Bhave, Y. P Chen, Y. Ping, T. Li, Nature Materials 21 (9), 1024-1028 (2022).
 2. 'High-contrast plasmonic-enhanced shallow spin defects in hexagonal boron nitride for quantum sensing', X. Gao, B. Jiang, A. Allcca, K. Shen, M. A Sadi, A. B Solanki, P. Ju, Z. Xu, P. Upadhyaya, Y. P Chen, S. A Bhave, T. Li, Nano Letters 21 (18), 7708-7714 (2021).
 
-### Quantum Vaccum Fluctuattion
+#### Quantum Vaccum Fluctuattion
 1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li (In preparation).
 2. 'Observation and control of Casimir effects in a sphere-plate-sphere system', Z. Xu, **P. Ju**, X. Gao, K. Shen, Z. Jacob, T. Li, Nature Communications 13 (1), 1-8 (2022).
 
-### Talks
+#### Talks
 1. 
 

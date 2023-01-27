@@ -19,7 +19,7 @@ For a full list of my publications, please refer to my [google scholar](https://
 
 #### Quantum Vaccum Fluctuattion
 1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). [[Link]](https://arxiv.org/abs/2301.10868)
-2. 'Observation and control of Casimir effects in a sphere-plate-sphere system', Z. Xu, **P. Ju**, X. Gao, K. Shen, Z. Jacob, T. Li, Nature Communications 13 (1), 1-8 (2022). [[Link]] (https://www.nature.com/articles/s41467-022-33915-4)
+2. 'Observation and control of Casimir effects in a sphere-plate-sphere system', Z. Xu, **P. Ju**, X. Gao, K. Shen, Z. Jacob, T. Li, Nature Communications 13 (1), 1-8 (2022). [[Link]](https://www.nature.com/articles/s41467-022-33915-4)
 
 #### Talks
 1. 'Ultrasensitive torque detection and 5D cooling of optically levitated nanoparticles', APS March meeting (2021). [[Link]](https://meetings.aps.org/Meeting/MAR21/Session/J31.2)

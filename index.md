@@ -15,8 +15,10 @@ Xi'an Jiaotong University, B.S. in Physics (Honor), 2014,08~2018.05.
 </pre>
 
 ### Skills
-
-Programming languages: Python, SQL, MATLAB, C/C++, HTML.  
+Programming languages: Python (OOP), SQL, MATLAB, C/C++, HTML. 
+Data analysis tools: NumPy, Pandas, Matplotlib, Seaborn, Scipy, Pyspark.
 Machine learning: Pytorch, scikit-learn, TensorFlow/Keras.  
-Tools: Google Colab, Linux/Unix, Git, AWS, Docker, Anaconda.
+Platforms: Google Colab, Linux/Unix, Git, AWS, Docker, Anaconda.
+
+
 

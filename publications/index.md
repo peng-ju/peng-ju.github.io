@@ -7,7 +7,7 @@ title: Publications
 For a full list of my publications, please refer to my [google scholar](https://scholar.google.com/citations?user=vPl5ZHoAAAAJ&hl=en&oi=ao).  
 
 #### Levitated optomechanics
-![Fig1](img/fastest_spin.jpg) ![Fig1](img/fastest_spin.jpg) ![Fig1](img/fastest_spin.jpg)
+<img src=img/fastest_spin.jpg  width="600" height="300" >
 1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). [[Link]](https://arxiv.org/abs/2301.10868)
 2. 'On-chip optical levitation with a metalens in vacuum', K. Shen, Y. Duan, **P. Ju**, Z. Xu, X. Chen, L. Zhang, J. Ahn, X. Ni, T. Li. Optica 8 (11), 1359-1362 (2021). [[Link]](https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-11-1359&id=461986)
 3. 'Coupled dynamics of an optically levitated nanodumbbell', **P. Ju**, J. Bang, T. Seberson, J. Ahn, Z. Xu, X. Gao, F. Robicheaux, T. Li, Laser Science, LTh2G. 3 (2020). [[Link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3)

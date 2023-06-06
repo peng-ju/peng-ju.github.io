@@ -16,6 +16,13 @@ Ph.D. in Physics, 2018.08~2024.05(expected).
 **Xi'an Jiaotong University**   
 B.S. in Physics (Honor), 2014,08~2018.05.  
 
+---
+### Related Courses
+ECE 601, Deep Learning 
+ECE 661, Computer Vision  
+ECE 595, Machine Learning  
+PHYS 570, Physics and AI
+ECE 368, Data Strcutures and Algorithm
 
 ---
 ### Skills
@@ -23,6 +30,7 @@ B.S. in Physics (Honor), 2014,08~2018.05.
 **Data analysis tools**: NumPy, Pandas, Matplotlib, Seaborn, Scipy.  
 **Machine learning**: Pytorch, scikit-learn, TensorFlow/Keras, Pyspark.    
 **Platforms**: Google Colab, Linux/Unix, Git, AWS, Docker, Anaconda.  
+
 
 
 

@@ -6,7 +6,7 @@ title: Peng Ju
 
 I'm a PhD candidate in department of Physics, [Purdue University](https://www.purdue.edu/). I work in [Tongcang Li Research Group](https://sites.google.com/site/litongcang). My research interests lies in nanofabrication, levitated optomechanics, spin qubit and quantum vacuum fluctuations. Data analysis, numerical simulation and image processing are often used in my research.
 
-I am a big fan of Artificial Intelligence (AI). I have more than 3 years of experience in machine learning, NLP, deep learning and computer vision.
+I am a big fan of Artificial Intelligence (AI). I have more than 4 years of experience in machine learning, NLP, deep learning and computer vision.
 
 ---
 ### Education
@@ -27,9 +27,10 @@ ECE 368, Data Structures and Algorithm
 ---
 ### Skills
 **Programming languages**: Python (OOP), SQL, MATLAB, C/C++, HTML.   
-**Data analysis tools**: NumPy, Pandas, Matplotlib, Seaborn, Scipy.  
-**Machine learning**: Pytorch, scikit-learn, TensorFlow/Keras, Pyspark.    
-**Platforms**: Google Colab, Linux/Unix, Git, AWS, Docker, Anaconda.  
+**Data analysis tools**: NumPy, pandas, Matplotlib, Seaborn, Scipy.  
+**Data engineer tools**: Docker, Apache Airflow, Kubernetes, MinIO/AWS.  
+**Machine learning**: Pytorch, scikit-learn, TensorFlow/Keras, Pyspark.     
+**Other Tools**: Google Colab, Linux/Unix/WSL, Git (Codespaces), Anaconda, Poetry.   
 
 
 

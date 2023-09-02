@@ -29,8 +29,9 @@
 
     </div>
     <hr />
-    <div style="width:900px; text-align:middle">
-
+    <!-- width:900px; -->
+    <div style="device-width; text-align:middle">
+      <!-- left side of the page -->
       <div  style="width:25%; float:left; padding: 20px 20px;">
           <img src="/assets/img/PengJu_home.jpg" alt="Logo" width="60%"/>
           <div style="font-size: 1.1em "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; float:left;">
@@ -41,6 +42,7 @@
             <b style='color:blue !important;'> Actively Looking for MLE/DS full-time positions </b> <br>
           </div>
       </div>
+      <!-- content from md file -->
       <div style="width:70%; float:left">
         {{ content }}
       </div>
@@ -48,17 +50,5 @@
     </div>
   </div>    
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  <!--
-  {% if site.google_analytics %}
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{ site.google_analytics }}', 'auto');
-    ga('send', 'pageview');
-  </script> 
-  {% endif %}
-  -->
   </body>
 </html>

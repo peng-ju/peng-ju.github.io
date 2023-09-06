@@ -7,7 +7,7 @@ title: Publications
 For a full list of my publications, please refer to my [google scholar](https://scholar.google.com/citations?user=vPl5ZHoAAAAJ&hl=en&oi=ao).  
 
 #### Levitated optomechanics
-[<img src=img/RoateNearSurface.jpg  width="200" height="200" />](img/RoateNearSurface.jpg)
+[<img src=img/RoateNearSurface.JPG  width="200" height="200" />](img/RoateNearSurface.JPG)
 [<img src=img/fastest_spin.jpg  width="200" height="200" />](img/img/fastest_spin.jpg)
 [<img src=img/OnChipLevitation.jpg  width="200" height="200" />](img/OnChipLevitation.jpg)
 

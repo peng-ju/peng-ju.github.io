@@ -8,8 +8,11 @@ For a full list of my publications, please refer to my [google scholar](https://
 
 #### Levitated optomechanics
 [<img src=img/RoateNearSurface.JPG  width="200" height="200" />](img/RoateNearSurface.JPG)
+
 [<img src=img/fastest_spin.jpg  width="200" height="200" />](img/img/fastest_spin.jpg)
+
 [<img src=img/OnChipLevitation.jpg  width="200" height="200" />](img/OnChipLevitation.jpg)
+
 [<img src=img/FiveDCooling.JPG  width="200" height="200" />](img/FiveDCooling.JPG)
 
 1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). [[Link]](https://arxiv.org/abs/2301.10868)

@@ -19,7 +19,7 @@ For a full list of my publications, please refer to my [google scholar](https://
 1. 'Ultrasensitive torque detection with an optically levitated nanorotor', J. Ahn, Z. Xu, J. Bang, **P. Ju**, X. Gao, T. Li, Nature Nanotechnology 15 (2), 89-93 (2020). [[Link]](https://www.nature.com/articles/s41565-019-0605-9)
 
 #### Spin qubit
-[<img src="img/HBN.JPG"  width=200px height=200px />](img/HBN.JPG)
+[<img src="img/HBN.JPG"  width=200px height=200px />](img/HBN.JPG)  
 2. 'Nuclear spin polarization and control in hexagonal boron nitride', X. Gao, S. Vaidya, K. Li, **P. Ju**, B. Jiang, Z. Xu, A. Allcca, K. Shen, T. Taniguchi, K. Watanabe, S. A Bhave, Y. P Chen, Y. Ping, T. Li, Nature Materials 21 (9), 1024-1028 (2022). [[Link]](https://www.nature.com/articles/s41563-022-01329-8)
 1. 'High-contrast plasmonic-enhanced shallow spin defects in hexagonal boron nitride for quantum sensing', X. Gao, B. Jiang, A. Allcca, K. Shen, M. A Sadi, A. B Solanki, **P. Ju**, Z. Xu, P. Upadhyaya, Y. P Chen, S. A Bhave, T. Li, Nano Letters 21 (18), 7708-7714 (2021). [[Link]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c02495)
 

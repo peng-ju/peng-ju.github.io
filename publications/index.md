@@ -11,7 +11,9 @@ For a full list of my publications, please refer to my [google scholar](https://
 [<img src="img/fastest_spin.jpg"  width=200px height=200px />](img/img/fastest_spin.jpg)
 [<img src="img/OnChipLevitation.jpg"  width=200px height=200px />](img/OnChipLevitation.jpg)
 [<img src="img/FiveDCooling.JPG"  width=200px height=200px />](img/FiveDCooling.JPG)
+[<img src="img/Rotate_ND.JPG"  width=200px height=200px />](img/Rotate_ND.JPG)
 
+6. 'Quantum control and fast rotation of levitated diamonds in high vacuum', Y. Jin, K. Shen, **P. Ju**, X. Gao, C. Zu, A. J. Grine and T. Li, arXiv:2309.05821  (2023). [[link]](https://arxiv.org/abs/2309.05821).  
 5. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). [[Link]](https://arxiv.org/abs/2301.10868)
 4. 'On-chip optical levitation with a metalens in vacuum', K. Shen, Y. Duan, **P. Ju**, Z. Xu, X. Chen, L. Zhang, J. Ahn, X. Ni, T. Li. Optica 8 (11), 1359-1362 (2021). [[Link]](https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-11-1359&id=461986)
 3. 'Coupled dynamics of an optically levitated nanodumbbell', **P. Ju**, J. Bang, T. Seberson, J. Ahn, Z. Xu, X. Gao, F. Robicheaux, T. Li, Laser Science, LTh2G. 3 (2020). [[Link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3)

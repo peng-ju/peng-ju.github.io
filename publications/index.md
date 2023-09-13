@@ -6,6 +6,7 @@ title: Publications
 ### Selected Publications
 For a full list of my publications, please refer to my [google scholar](https://scholar.google.com/citations?user=vPl5ZHoAAAAJ&hl=en&oi=ao).  
 
+---
 #### Levitated optomechanics
 [<img src="img/RoateNearSurface.JPG"  width=200px height=200px />](img/RoateNearSurface.JPG)
 [<img src="img/fastest_spin.jpg"  width=200px height=200px />](img/img/fastest_spin.jpg)
@@ -20,12 +21,14 @@ For a full list of my publications, please refer to my [google scholar](https://
 2. 'Five-dimensional cooling and nonlinear dynamics of an optically levitated nanodumbbell', J. Bang, T. Seberson, **P. Ju**, J. Ahn, Z. Xu, X. Gao, F. Robicheaux, T. Li, Physical Review Research 2 (4), 043054 (2020). [[Link]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043054)
 1. 'Ultrasensitive torque detection with an optically levitated nanorotor', J. Ahn, Z. Xu, J. Bang, **P. Ju**, X. Gao, T. Li, Nature Nanotechnology 15 (2), 89-93 (2020). [[Link]](https://www.nature.com/articles/s41565-019-0605-9)
 
+---
 #### Spin qubit
 [<img src="img/HBN.JPG"  width=200px height=200px />](img/HBN.JPG)
 
 2. 'Nuclear spin polarization and control in hexagonal boron nitride', X. Gao, S. Vaidya, K. Li, **P. Ju**, B. Jiang, Z. Xu, A. Allcca, K. Shen, T. Taniguchi, K. Watanabe, S. A Bhave, Y. P Chen, Y. Ping, T. Li, Nature Materials 21 (9), 1024-1028 (2022). [[Link]](https://www.nature.com/articles/s41563-022-01329-8)
 1. 'High-contrast plasmonic-enhanced shallow spin defects in hexagonal boron nitride for quantum sensing', X. Gao, B. Jiang, A. Allcca, K. Shen, M. A Sadi, A. B Solanki, **P. Ju**, Z. Xu, P. Upadhyaya, Y. P Chen, S. A Bhave, T. Li, Nano Letters 21 (18), 7708-7714 (2021). [[Link]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c02495)
 
+---
 #### Quantum Vaccum Fluctuation
 [<img src="img/Casimir1.JPG"  width=200px height=200px />](img/Casimir1.JPG)
 [<img src="img/Casimir2.JPG"  width=200px height=200px />](img/Casimir2.JPG)
@@ -33,15 +36,17 @@ For a full list of my publications, please refer to my [google scholar](https://
 2. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). [[Link]](https://arxiv.org/abs/2301.10868)
 1. 'Observation and control of Casimir effects in a sphere-plate-sphere system', Z. Xu, **P. Ju**, X. Gao, K. Shen, Z. Jacob, T. Li, Nature Communications 13 (1), 1-8 (2022). [[Link]](https://www.nature.com/articles/s41467-022-33915-4)
 
+---
 #### Talks
 4. 'GHz rotation and sensing with an optically levitated nanodumbbell near a surface', SPIE Optics and Photonics (2023). [[link]](https://spie.org/optics-photonics/presentation/GHz-rotation-and-sensing-with-an-optically-levitated-nanodumbbell-near/12649-39)  
 3. 'Ultrasensitive torque detection and 5D cooling of optically levitated nanoparticles', APS March meeting (2021). [[Link]](https://meetings.aps.org/Meeting/MAR21/Session/J31.2)
 2. 'Ultrasensitive torque detection with an optically levitated nanorotor', UniKORN Seminar (2021). [[Link]](https://www.youtube.com/watch?v=1Uv6hEnyZtA&t=3609s&ab_channel=UniKORNSeminars)
 1. 'Coupled dynamics of an optically levitated nanodumbbell', Laser Science, LTh2G. 3 (2020). [[Link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3#videoPlayer)
 
+---
 #### Posters
 1. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbel', GRC, Mechanical Systems in the Quantum Regime (2022). [[Link]](https://www.grc.org/mechanical-systems-in-the-quantum-regime-conference/2022/)
 
-
+---
 #### Other Experience
 Reviewer for Optics Letters, Optics Express, Scientific Reports, AIP advances, et al.

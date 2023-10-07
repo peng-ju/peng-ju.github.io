@@ -40,13 +40,11 @@
            <td> <button onclick = fun(3)>3</button></td>  
            <td></td>  
            <td> <button onclick = fun(".")>.</button></td>  
-           <td> <button onclick = res()>=</button></td>  
+           <td> <button id="equal" onclick = res()>=</button></td>  
        </tr>  
     </table>  
     </center>  
 </body>  
-
-input.addEventListener("keypress", keyboard(event))
 </html>  
 
 <script type = text/javascript>  
@@ -77,10 +75,11 @@ input.addEventListener("keypress", keyboard(event))
             var a = document.getElementById("display").value;  
             document.getElementById("display").value=a+"="+eval(a);  
         }
+        input.addEventListener("keypress", keyboard(event));
         function keyboard(event)
         {
             if (event.key() == "Enter"){
-                res();
+                document.getElementById("equal").click();
             } 
         }  
 </script>  

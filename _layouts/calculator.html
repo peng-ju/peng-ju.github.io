@@ -13,7 +13,7 @@
    <center>  
    <h1>Simple Calculator</h1>  
    <table>  
-       <tr><input id = "display"></tr>  
+       <tr><input id="display"></tr>  
        <tr><td> <button id="b0" onclick = fun(0)>0</button></td>  
            <td> <button id="lb" onclick = fun("(")>(</button></td>  
            <td> <button id="rb" onclick = fun(")")>)</button></td>  
@@ -76,15 +76,14 @@
             document.getElementById("display").value=a+"="+eval(a);  
         }
         var input = document.getElementById("display");
-        input.addEventListener("keypress", keyboard(event));
-        function keyboard(event)
+        input.addEventListener("keypress", function(event) 
         {
-            if (event.key() === "Enter"){
+            if (event.key === "Enter") 
+            {
                 event.preventDefault();
-                //res();
                 document.getElementById("equal").click();
-            } 
-        }  
+            }
+        }); 
 </script>  
 
 <!-- set the style for components in body -->

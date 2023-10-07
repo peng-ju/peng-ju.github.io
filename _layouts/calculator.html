@@ -75,12 +75,14 @@
             var a = document.getElementById("display").value;  
             document.getElementById("display").value=a+"="+eval(a);  
         }
+        var input = document.getElementById("display");
         input.addEventListener("keypress", keyboard(event));
         function keyboard(event)
         {
-            if (event.key() == "Enter"){
-                res();
-                //document.getElementById("equal").click();
+            if (event.key() === "Enter"){
+                event.preventDefault();
+                //res();
+                document.getElementById("equal").click();
             } 
         }  
 </script>  

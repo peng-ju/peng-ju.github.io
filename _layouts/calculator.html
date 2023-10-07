@@ -46,6 +46,15 @@
 </html>  
 
 <script type = text/javascript>  
+        /*
+        document.getElementById("display"): a str contains/records algebraic expressions
+        fun(): collects the clicking input and update document.getElementById("display")
+        C(): reset the document.getElementById("display")
+        B(): backward, delete the last element from the str: document.getElementById("display")
+        res(): return the result of the algebraic expressions by eval()
+
+        Note: the calculator also takes direct typed str input in document.getElementById("display")
+        */
         function fun(a)  
         {  
             document.getElementById("display").value+=a;  

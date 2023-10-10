@@ -6,7 +6,7 @@ title: Peng Ju
 
 I'm a PhD candidate in department of Physics, [Purdue University](https://www.purdue.edu/). I work in [Tongcang Li Research Group](https://sites.google.com/site/litongcang). My research interests lies in nanofabrication, levitated optomechanics, spin qubit and quantum vacuum fluctuations. Data analysis, numerical simulation and image processing are often used in my research.
 
-I am a big fan of Artificial Intelligence (AI). I have more than 4 years of experience in machine learning, NLP, deep learning and computer vision. I have been working with The Data Mine at Purdue University from 2023 Jan-Dec, where I participated in the collaborative ML projects with [Howmet Aerospace](https://www.howmet.com/) and [Eli Lilly and Company](https://www.lilly.com/). 
+I am a big fan of Artificial Intelligence (AI). I have more than 4 years of experience in machine learning, NLP, deep learning and computer vision. I have been working with The Data Mine at Purdue University from 2023 Jan to 2023 Dec, where I participated in the collaborative ML projects with [Howmet Aerospace](https://www.howmet.com/) and [Eli Lilly and Company](https://www.lilly.com/). 
 
 
 ### Education

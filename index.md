@@ -8,7 +8,7 @@ I'm a PhD candidate in department of Physics, [Purdue University](https://www.pu
 
 I am a big fan of Artificial Intelligence (AI). I have more than 4 years of experience in machine learning, NLP, deep learning and computer vision. I have been working with The Data Mine at Purdue University from 2023 Jan to 2023 Dec, where I participated in the collaborative ML projects with [Howmet Aerospace](https://www.howmet.com/) and [Eli Lilly and Company](https://www.lilly.com/). 
 
-
+---
 ### Education
 **Purdue University**           
 Ph.D. in Physics, 2018.08~2024.05(expected).          

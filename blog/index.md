@@ -8,11 +8,11 @@ date: 2023-01-16
 [<img src="img/SPIE_202309.png" width=500px />](img/SPIE_202309.png)
 
 ---
-### 2022-10 Purdue Half Marathon [link](https://purduehalf.com/)
+### 2022-10 Purdue Half Marathon [[link]](https://purduehalf.com/)
 [<img src="img/Peng_marathon.jpg" width=500px />](img/Peng_marathon.jpg)
 
 ---
-### 2022-04 Run for Justice - 10k, first place(Men25-30)! [link](https://www.runforjustice.net/)
+### 2022-04 Run for Justice - 10k, first place(Men25-30)! [[link]](https://www.runforjustice.net/)
 [<img src="img/Run_for_Justice.jpg" width=300px />](img/Run_for_Justice.jpg)
 
 

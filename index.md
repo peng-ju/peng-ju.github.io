@@ -26,11 +26,11 @@ ECE 368, Data Structures and Algorithm
 
 ---
 ### Skills
-**Programming languages**: Python (OOP), SQL, MATLAB, C/C++, HTML.   
+**Programming languages**: Python (OOP), SQL, MATLAB, C/C++, HTML, JavaScript.   
 **Data analysis tools**: NumPy, pandas, Matplotlib, Seaborn, Scipy.  
 **Data engineer tools**: Docker, Apache Airflow, Kubernetes, MinIO/AWS, SQLite/PostgreSQL.  
 **Machine learning**: Pytorch, scikit-learn, TensorFlow/Keras, Pyspark.     
-**Other Tools**: Google Colab, Linux/Unix/WSL, Git (Codespaces), Anaconda, Poetry.   
+**Other Tools**: Google Colab, Linux/Unix/WSL, GitHub (Codespaces), Anaconda, Poetry.   
 
 
 

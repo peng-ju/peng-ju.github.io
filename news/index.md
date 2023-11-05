@@ -1,6 +1,6 @@
 ---
-layout: default_blog
-title: "Blog"
+layout: default_news
+title: "News"
 date: 2023-01-16
 ---
 

@@ -8,6 +8,9 @@ For a full list of my publications, please refer to my [google scholar](https://
 
 ---
 #### Levitated optomechanics
+
+We demonstrated GHz rotation and ultra-sensitive torque detection with an optically levitated nanodumbbell both in free space and near a surface. We performed five-dimensional feedback cooling on an levitated nanodumbbell. We conducted on-chip levitation with both nanofabricated metalens and surface ion trap.
+
 [<img src="img/RoateNearSurface.JPG"  width=200px height=200px />](img/RoateNearSurface.JPG)
 [<img src="img/fastest_spin.jpg"  width=200px height=200px />](img/img/fastest_spin.jpg)
 [<img src="img/OnChipLevitation.jpg"  width=200px height=200px />](img/OnChipLevitation.jpg)
@@ -23,6 +26,9 @@ For a full list of my publications, please refer to my [google scholar](https://
 
 ---
 #### Spin qubit
+
+We studied solid-state spins in 3D (nitrogen-vacancy center in diamond), 2D (Hexagonal boron nitride) and 1D (boron nitride nanotube) materials. We designed and fabricated coplanar waveguide to control electron spins and nuclear spins. 
+
 [<img src="img/HBN.JPG"  width=200px height=200px />](img/HBN.JPG)
 [<img src="img/HBN_2d.png"  width=200px height=200px />](img/HBN_2d.png)
 [<img src="img/HBN_nanotube.png"  width=200px height=200px />](img/HBN_nanotube.png)
@@ -33,6 +39,9 @@ For a full list of my publications, please refer to my [google scholar](https://
 
 ---
 #### Quantum Vaccum Fluctuation
+
+We studied three-body optomechanic system interacting with virtual photons. We simulated virtual photon induced torque between a nanodumbbell and a nanograting.
+
 [<img src="img/Casimir1.JPG"  width=200px height=200px />](img/Casimir1.JPG)
 [<img src="img/Casimir2.JPG"  width=200px height=200px />](img/Casimir2.JPG)
 [<img src="img/Casimir_nanodumbbell.png"  width=200px height=200px />](img/Casimir_nanodumbbell.png)

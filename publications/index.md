@@ -24,6 +24,7 @@ For a full list of my publications, please refer to my [google scholar](https://
 ---
 #### Spin qubit
 [<img src="img/HBN.JPG"  width=200px height=200px />](img/HBN.JPG)
+[<img src="img/HBN_2d.png"  width=200px height=200px />](img/HBN_2d.png)
 [<img src="img/HBN_nanotube.png"  width=200px height=200px />](img/HBN_nanotube.png)
 
 3. 'Nanotube spin defects for omnidirectional magnetic field sensing', X. Gao, S. Vaidya, S. Dikshit, **P. Ju**, K. Shen, Y. Jin, S. Zhang, and T. Li, arXiv: 2310.02709 (2023). [[link]](https://arxiv.org/pdf/2310.02709.pdf)
@@ -34,6 +35,7 @@ For a full list of my publications, please refer to my [google scholar](https://
 #### Quantum Vaccum Fluctuation
 [<img src="img/Casimir1.JPG"  width=200px height=200px />](img/Casimir1.JPG)
 [<img src="img/Casimir2.JPG"  width=200px height=200px />](img/Casimir2.JPG)
+[<img src="img/Casimir_nanodumbbell.png"  width=200px height=200px />](img/Casimir_nanodumbbell.png)
 
 2. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). [[Link]](https://arxiv.org/abs/2301.10868)
 1. 'Observation and control of Casimir effects in a sphere-plate-sphere system', Z. Xu, **P. Ju**, X. Gao, K. Shen, Z. Jacob, T. Li, Nature Communications 13 (1), 1-8 (2022). [[Link]](https://www.nature.com/articles/s41467-022-33915-4)

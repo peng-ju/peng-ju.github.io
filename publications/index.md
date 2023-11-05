@@ -15,7 +15,7 @@ For a full list of my publications, please refer to my [google scholar](https://
 [<img src="img/Rotate_ND.JPG"  width=200px height=200px />](img/Rotate_ND.JPG)
 
 6. 'Quantum control and fast rotation of levitated diamonds in high vacuum', Y. Jin, K. Shen, **P. Ju**, X. Gao, C. Zu, A. J. Grine and T. Li, arXiv:2309.05821  (2023). [[link]](https://arxiv.org/abs/2309.05821).  
-5. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). [[Link]](https://arxiv.org/abs/2301.10868)
+5. 'Near-field GHz rotation and sensing with an optically levitated nanodumbbell', **P. Ju**, Y. Jin, K. Shen, Y. Duan, Z. Xu, X. Gao, X. Ni, T. Li, arXiv:2301.10868 (2023). Accepted by Nano Letters. [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.3c02442#)
 4. 'On-chip optical levitation with a metalens in vacuum', K. Shen, Y. Duan, **P. Ju**, Z. Xu, X. Chen, L. Zhang, J. Ahn, X. Ni, T. Li. Optica 8 (11), 1359-1362 (2021). [[Link]](https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-11-1359&id=461986)
 3. 'Coupled dynamics of an optically levitated nanodumbbell', **P. Ju**, J. Bang, T. Seberson, J. Ahn, Z. Xu, X. Gao, F. Robicheaux, T. Li, Laser Science, LTh2G. 3 (2020). [[Link]](https://opg.optica.org/abstract.cfm?uri=LS-2020-LTh2G.3)
 2. 'Five-dimensional cooling and nonlinear dynamics of an optically levitated nanodumbbell', J. Bang, T. Seberson, **P. Ju**, J. Ahn, Z. Xu, X. Gao, F. Robicheaux, T. Li, Physical Review Research 2 (4), 043054 (2020). [[Link]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043054)
@@ -24,7 +24,9 @@ For a full list of my publications, please refer to my [google scholar](https://
 ---
 #### Spin qubit
 [<img src="img/HBN.JPG"  width=200px height=200px />](img/HBN.JPG)
+[<img src="img/HBN_nanotube.png"  width=200px height=200px />](img/HBN_nanotube.png)
 
+3. 'Nanotube spin defects for omnidirectional magnetic field sensing', X. Gao, S. Vaidya, S. Dikshit, **P. Ju**, K. Shen, Y. Jin, S. Zhang, and T. Li, arXiv: 2310.02709 (2023). [[link]](https://arxiv.org/pdf/2310.02709.pdf)
 2. 'Nuclear spin polarization and control in hexagonal boron nitride', X. Gao, S. Vaidya, K. Li, **P. Ju**, B. Jiang, Z. Xu, A. Allcca, K. Shen, T. Taniguchi, K. Watanabe, S. A Bhave, Y. P Chen, Y. Ping, T. Li, Nature Materials 21 (9), 1024-1028 (2022). [[Link]](https://www.nature.com/articles/s41563-022-01329-8)
 1. 'High-contrast plasmonic-enhanced shallow spin defects in hexagonal boron nitride for quantum sensing', X. Gao, B. Jiang, A. Allcca, K. Shen, M. A Sadi, A. B Solanki, **P. Ju**, Z. Xu, P. Upadhyaya, Y. P Chen, S. A Bhave, T. Li, Nano Letters 21 (18), 7708-7714 (2021). [[Link]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c02495)
 

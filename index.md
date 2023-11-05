@@ -11,7 +11,7 @@ I am a big fan of Artificial Intelligence (AI). I have more than 4 years of expe
 ---
 ### Education
 **Purdue University**           
-Ph.D. in Physics, 2018.08~2024.08(expected).          
+Ph.D. in Physics, 2018.08~Present.          
 
 **Xi'an Jiaotong University**   
 B.S. in Physics (Honor), 2014,08~2018.05.  

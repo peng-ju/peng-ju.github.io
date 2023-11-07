@@ -32,6 +32,7 @@ We studied solid-state spins in 3D (nitrogen-vacancy center in diamond), 2D (Hex
 [<img src="img/HBN.JPG"  width=200px height=200px />](img/HBN.JPG)
 [<img src="img/HBN_2d.png"  width=200px height=200px />](img/HBN_2d.png)
 [<img src="img/HBN_nanotube.png"  width=200px height=200px />](img/HBN_nanotube.png)
+[<img src="img/waveguide.png"  width=300px height=200px />](img/waveguide.png)
 
 3. 'Nanotube spin defects for omnidirectional magnetic field sensing', X. Gao, S. Vaidya, S. Dikshit, **P. Ju**, K. Shen, Y. Jin, S. Zhang, and T. Li, arXiv: 2310.02709 (2023). [[link]](https://arxiv.org/pdf/2310.02709.pdf)
 2. 'Nuclear spin polarization and control in hexagonal boron nitride', X. Gao, S. Vaidya, K. Li, **P. Ju**, B. Jiang, Z. Xu, A. Allcca, K. Shen, T. Taniguchi, K. Watanabe, S. A Bhave, Y. P Chen, Y. Ping, T. Li, Nature Materials 21 (9), 1024-1028 (2022). [[Link]](https://www.nature.com/articles/s41563-022-01329-8)

@@ -9,18 +9,20 @@ I'm a PhD candidate in department of Physics, [Purdue University](https://www.pu
 I am a big fan of Artificial Intelligence (AI). I have more than 4 years of experience in machine learning, NLP, deep learning and computer vision. I have been working with The Data Mine at Purdue University from 2023 Jan to 2023 Dec, where I participated in the collaborative ML projects with [Howmet Aerospace](https://www.howmet.com/) and [Eli Lilly and Company](https://www.lilly.com/). 
 
 ---
-## Industry Experience
+## Industry Experience (Check [ML experience](https://peng-ju.github.io/ML/) for details)  
+
 **The Data Mine, Purdue University (Collaborated with [Eli Lilly and Company](https://www.lilly.com/))**   
 Graduate Research Assistant, 2023-05 to 2023-12
-- Developed an X-ray image based anomaly detection algorithm for the turbine blades. The algorithm combines image preposessing (OpenCV), fine-tuned pre-trained CNN model, and logistic regression.
-- Skillset: Computer Vision, Deep Learning, Pytorch, OpenCV, GitHub, Agile Methodologies. 
+
+- Extracted text metadata from images/videos with transformer-based optical character recognition (**OCR**) models. 
+- Designed, implemented and deployed data ingestion pipelines to automate metadata extraction with Apache Airflow, Kubernetes, MinIO/AWS, Docker. 
+- Developed a statistic algorithm for data anomaly detection with PostgreSQL and pandas.
 
 **The Data Mine, Purdue University (Collaborated with [Howmet Aerospace](https://www.howmet.com/))**  
 Graduate Researcher, 2023-01 to 2023-05  
-- Extracted text metadata from images/videos with transformer based optical character recognition (OCR) models. 
-- Built and deployed data ingestion pipelines to automate metadata extraction with Apache Airflow, Kubernetes, MinIO/AWS, Docker. 
-- Developed a statistic algorithm for data anomaly detection with PostgreSQL and pandas.
 
+- Developed an X-ray image based anomaly detection algorithm for the turbine blades. The algorithm combines image preposessing (OpenCV), fine-tuned pre-trained CNN model, and logistic regression.
+- Skillset: Computer Vision, Deep Learning, Pytorch, OpenCV, GitHub, Agile Methodologies. 
 
 ---
 ## Education

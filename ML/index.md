@@ -22,14 +22,16 @@ The Data Mine, Purdue University. Graduate Researcher. 2023-01 - 2023-05.
 ---
 The Data Mine, Purdue University. Graduate Research Assistant. 2023-05 - 2023-12. 
 - Collaborate with **Eli Lilly and Company**. Advisor: James Rimell and Prof. Mark Daniel Ward. 
-- Extracted text metadata from images/videos with transformer-based optical character recognition (**OCR**) models. 
+- Extracted text metadata from images with transformer-based optical character recognition (**OCR**) models. 
 - Designed, implemented and deployed data ingestion pipelines to automate metadata extraction with Apache Airflow, Kubernetes, MinIO/AWS, Docker. 
 - Developed a statistic algorithm for data anomaly detection with PostgreSQL and pandas.
 
 [<img src="img/OCR.png"  width=300px height=200px />](img/OCR.png)
 
 ---
-Purdue University, Graduate researcher. 2023-10 - Current.
-- Performed replication and ablation studies on a distributed learning (federated learning) algorithm. "Towards Understanding Biased Client Selection in Federated Learning". [[link]](https://proceedings.mlr.press/v151/jee-cho22a.html)
+Purdue University, Graduate researcher. 2023-10 - Current. [[link]](https://dagshub.com/peng-ju/Power-of-Choice)
+- Performed replication and ablation studies on a federated learning (distributed machine learning) algorithm. "Towards Understanding Biased Client Selection in Federated Learning". [[link]](https://proceedings.mlr.press/v151/jee-cho22a.html)
+- Implemented federated learning with biased client selection strategy, increasing convergence speed of CNN/MLP models by over 3 times. 
+- Ensured traceability and reproducibility of image classification and sentiment analysis federated learning experiments with MLflow and Dagshub.
 
 [<img src="img/FederatedLearning.png"  width=300px height=200px />](img/FederatedLearning.png)

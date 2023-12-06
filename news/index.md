@@ -4,6 +4,10 @@ title: "News"
 date: 2023-01-16
 ---
 
+### 2023-12 Scured 1st Place - 2023 ML@Purdue X DagsHub Machine Learning Hackathon Advanced Track [[Code]](https://dagshub.com/peng-ju/Power-of-Choice) [[Paper]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Report-ReScience.pdf) [[Slide]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Presentation-Hackathon.pdf)
+[<img src="img/PowerOfChoice.png"  width=500px height=200px />](img/PowerOfChoice.png)
+
+---
 ### 2023-08 Glad to present our recent research progress in SPIE Optics + Photonics [[Video]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12649/PC126490M/GHz-rotation-and-sensing-with-an-optically-levitated-nanodumbbell-near/10.1117/12.2676898.full?SSO=1)
 [<img src="img/SPIE_202309.png" width=500px />](img/SPIE_202309.png)
 

@@ -11,7 +11,7 @@ I have experience of applying machine learning (deep learning, NLP and CV) to bo
 
 ---
 The Data Mine, Purdue University. Graduate Researcher. 2023-01 - 2023-05.
-[[link]](https://github.com/peng-ju/Turbine_blade_anomaly_detection)
+[[Slide]](https://github.com/peng-ju/Turbine_blade_anomaly_detection)
 
 - Collaborated with **Howmet Aerospace**. Developed an X-ray image based anomaly detection algorithm for the turbine blades. The algorithm combines image preposessing (OpenCV), fine-tuned pre-trained CNN model, and logistic regression.
 - Skillset: Computer Vision, Deep Learning, Pytorch, OpenCV, GitHub, Agile Methodologies. 
@@ -29,9 +29,9 @@ The Data Mine, Purdue University. Graduate Research Assistant. 2023-05 - 2023-12
 [<img src="img/OCR.png"  width=300px height=200px />](img/OCR.png)
 
 ---
-Purdue University, Graduate researcher. 2023-10 - Current. [[link]](https://dagshub.com/peng-ju/Power-of-Choice)
-- Performed replication and ablation studies on a federated learning (distributed machine learning) algorithm. "Towards Understanding Biased Client Selection in Federated Learning". [[link]](https://proceedings.mlr.press/v151/jee-cho22a.html)
-- Implemented federated learning with biased client selection strategy, increasing convergence speed of CNN/MLP models by over 3 times. 
-- Ensured traceability and reproducibility of image classification and sentiment analysis federated learning experiments with MLflow and Dagshub.
+Purdue University, Graduate researcher. 2023-10 - Current. [[Code]](https://dagshub.com/peng-ju/Power-of-Choice) [[Paper]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Report-ReScience.pdf) [[Slide]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Presentation-Hackathon.pdf)
+- Performed replication and ablation studies on a novel federated learning (**discentralized** machine learning) algorithm. "Towards Understanding Biased Client Selection in Federated Learning". [[Orginal Paper]](https://proceedings.mlr.press/v151/jee-cho22a.html)
+- Implemented federated learning with biased client selection strategy, increasing convergence speed of MLP models by over 3 times. 
+- Ensured traceability and reproducibility of image classification and sentiment analysis federated learning experiments with **MLflow** and Dagshub.
 
 [<img src="img/FederatedLearning.png"  width=300px height=200px />](img/FederatedLearning.png)

@@ -34,4 +34,4 @@ Purdue University, Graduate researcher. 2023-10 - Current. [[Code]](https://dags
 - Implemented federated learning with biased client selection strategy, increasing convergence speed of MLP models by over 3 times. 
 - Ensured traceability and reproducibility of image classification and sentiment analysis federated learning experiments with **MLflow** and Dagshub.
 
-[<img src="img/FederatedLearning.png"  width=300px height=200px />](img/FederatedLearning.png)
+[<img src="img/PowerOfChoice.png"  width=500px height=200px />](img/PowerOfChoice.png)

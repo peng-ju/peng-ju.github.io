@@ -17,7 +17,7 @@ I have experience of applying machine learning (deep learning, NLP and CV) to bo
 [<img src="img/Object-detection.png"  width=300px height=200px />](img/Object-detection.png)
 
 ---
-Purdue University, Graduate researcher. 2023-10 - 2023-12. [[Code]](https://dagshub.com/peng-ju/Power-of-Choice) [[Paper]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Report-ReScience.pdf) [[Slide]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Presentation-Hackathon.pdf)
+Purdue University, Graduate researcher. 2023-10 - 2023-12. [[DagsHub Repo]](https://dagshub.com/peng-ju/Power-of-Choice) [[Paper]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Report-ReScience.pdf) [[Slide]](https://dagshub.com/peng-ju/Power-of-Choice/src/main/Presentation-Hackathon.pdf) [[GitHub Repo]](https://github.com/peng-ju/Power-of-Choice)
 
 <mark><b>
 1st Place - 2023 ML@Purdue X DagsHub Machine Learning Hackathon Advanced Track

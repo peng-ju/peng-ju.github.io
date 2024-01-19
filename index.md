@@ -46,7 +46,9 @@ ECE 601, Deep Learning
 ECE 661, Computer Vision  
 ECE 595, Machine Learning    
 PHYS 570, Physics and AI  
-ECE 368, Data Structures and Algorithm
+ECE 368, Data Structures and Algorithm  
+MA 511, Linear Algebra Applications  
+TDM 511, The Data Mine Corporate Partners Cohort  
 
 ---
 ### Skills

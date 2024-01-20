@@ -55,7 +55,7 @@ TDM 511, The Data Mine Corporate Partners Cohort
 **Programming languages**: Python (OOP), SQL, MATLAB, C/C++, HTML, JavaScript.   
 **Data analysis tools**: NumPy, pandas, Matplotlib, Seaborn, Scipy.  
 **Data engineer tools**: Docker, Apache Airflow, Kubernetes, MinIO/AWS, SQLite/PostgreSQL.  
-**Machine learning**: Pytorch, scikit-learn, TensorFlow/Keras, Pyspark.     
+**Machine learning**: Pytorch, scikit-learn, TensorFlow/Keras, Pyspark, MLflow, Hugging Face.    
 **Other Tools**: Google Colab, Linux/Unix/WSL, GitHub (Codespaces), Anaconda, Poetry.   
 
 

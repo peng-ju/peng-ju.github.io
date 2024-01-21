@@ -13,20 +13,22 @@ As of December 2023, I have embarked on a new professional journey as an **AI Re
 ---
 ## Industry Experience (Check [ML experience](https://peng-ju.github.io/ML/) for details)  
 
-**[InfoBeyond Technology](https://infobeyondtech.com/)**
+**[InfoBeyond Technology](https://infobeyondtech.com/)**  
 AI Research Scientist Intern, 2023-12 to 2024-05
 
 - Developed advanced small object detection technology under data-constrained scenarios.
+- Skillset: YOLO, few-shot learning, proposal writing.
 
-**The Data Mine, Purdue University (Collaborated with [Eli Lilly and Company](https://www.lilly.com/))**   
+**[The Data Mine](https://datamine.purdue.edu/), Purdue University (Collaborated with [Eli Lilly and Company](https://www.lilly.com/))**   
 Graduate Research Assistant, 2023-05 to 2023-12
 
 - Extracted text metadata from images with transformer-based optical character recognition (**OCR**) models. 
 - Designed, implemented and deployed data ingestion pipelines to automate metadata extraction with Apache Airflow, Kubernetes, MinIO/AWS, Docker. 
 - Developed a statistic algorithm for data anomaly detection with PostgreSQL and pandas.
-- Played a pivotal role in developing a comprehensive evaluation framework for Large Language Models (LLMs).
+- Played a pivotal role in developing a comprehensive evaluation framework for Large Language Models (**LLMs**).
 
-**The Data Mine, Purdue University (Collaborated with [Howmet Aerospace](https://www.howmet.com/))**  
+
+**[The Data Mine](https://datamine.purdue.edu/), Purdue University (Collaborated with [Howmet Aerospace](https://www.howmet.com/))**  
 Graduate Researcher, 2023-01 to 2023-05  
 
 - Developed an X-ray image based anomaly detection algorithm for the turbine blades. The algorithm combines image preposessing (OpenCV), fine-tuned pre-trained CNN model, and logistic regression.

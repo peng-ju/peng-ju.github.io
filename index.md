@@ -27,7 +27,6 @@ Graduate Research Assistant, 2023-05 to 2023-12
 - Developed a statistic algorithm for data anomaly detection with PostgreSQL and pandas.
 - Played a pivotal role in developing a comprehensive evaluation framework for Large Language Models (**LLMs**).
 
-
 **[The Data Mine](https://datamine.purdue.edu/), Purdue University (Collaborated with [Howmet Aerospace](https://www.howmet.com/))**  
 Graduate Researcher, 2023-01 to 2023-05  
 

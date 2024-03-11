@@ -16,7 +16,9 @@ As of December 2023, I have embarked on a new professional journey as an **AI Re
 **[InfoBeyond Technology](https://infobeyondtech.com/)**  
 AI Research Scientist Intern, 2023-12 to 2024-05
 
-- Developed advanced small object detection technology under data-constrained scenarios.
+<!-- - Developed advanced small object detection technology under data-constrained scenarios. -->
+- Designed a few-shot learning based small object detection system.
+- Developed a multi-modality based machine Remaining Useful Life (RUL) System.
 - Skillset: YOLO, few-shot learning, proposal writing.
 
 **[The Data Mine](https://datamine.purdue.edu/), Purdue University (Collaborated with [Eli Lilly and Company](https://www.lilly.com/))**   

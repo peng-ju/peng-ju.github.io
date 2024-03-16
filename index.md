@@ -18,7 +18,7 @@ AI Research Scientist Intern, 2023-12 to 2024-05
 
 <!-- - Developed advanced small object detection technology under data-constrained scenarios. -->
 - Designed a few-shot learning based small object detection system.
-- Developed a multi-modality based machine Remaining Useful Life (RUL) System.
+- Developed a multi-modality based machine Remaining Useful Life (RUL) prediction System.
 - Skillset: YOLO, few-shot learning, proposal writing.
 
 **[The Data Mine](https://datamine.purdue.edu/), Purdue University (Collaborated with [Eli Lilly and Company](https://www.lilly.com/))**   
@@ -44,17 +44,17 @@ Ph.D. in Physics, 2018.08~Present.
 B.S. in Physics (Honor), 2014,08~2018.05.  
 
 ---
-### Related Courses
-ECE 601, Deep Learning   
-ECE 661, Computer Vision  
-ECE 595, Machine Learning    
-PHYS 570, Physics and AI  
-ECE 368, Data Structures and Algorithm  
-MA 511, Linear Algebra Applications  
-TDM 511, The Data Mine Corporate Partners Cohort  
+### ML Related Courses
+- ECE 601, Deep Learning   
+- ECE 661, Computer Vision  
+- ECE 595, Machine Learning    
+- PHYS 570, Physics and AI  
+- ECE 368, Data Structures and Algorithm  
+- MA 511, Linear Algebra Applications  
+- TDM 511, The Data Mine Corporate Partners Cohort  
 
 ---
-### Skills
+## Skills
 **Programming languages**: Python (OOP), SQL, MATLAB, C/C++, HTML, JavaScript.   
 **Data analysis tools**: NumPy, pandas, Matplotlib, Seaborn, Scipy.  
 **Data engineer tools**: Docker, Apache Airflow, Kubernetes, MinIO/AWS, SQLite/PostgreSQL.  

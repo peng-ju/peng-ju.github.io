@@ -39,19 +39,11 @@ Graduate Researcher, 2023-01 to 2023-05
 ## Education
 **Purdue University**           
 Ph.D. in Physics, 2018.08~Present.          
+- Related Courses: Deep Learning (ECE 601), Computer Vision (ECE 661), Machine Learning (ECE 595), Physics and AI (PHYS 570)   
+Linear Algebra Applications (MA 511), Data Structures and Algorithm (ECE 368), The Data Mine Corporate Partners Cohort (TDM 511)
 
 **Xi'an Jiaotong University**   
 B.S. in Physics (Honor), 2014,08~2018.05.  
-
----
-### ML Related Courses
-- ECE 601, Deep Learning   
-- ECE 661, Computer Vision  
-- ECE 595, Machine Learning    
-- PHYS 570, Physics and AI  
-- ECE 368, Data Structures and Algorithm  
-- MA 511, Linear Algebra Applications  
-- TDM 511, The Data Mine Corporate Partners Cohort  
 
 ---
 ## Skills
